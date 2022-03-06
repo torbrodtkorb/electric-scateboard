@@ -1,8 +1,8 @@
 # Electric scateboard
 
-## Wheels
+## Motor mount
 <p align="center">
-  <img width="700" src="https://github.com/torbrodtkorb/electric-scateboard/blob/master/graphics/IMG_0236.png">
+  <img width="700" src="https://github.com/torbrodtkorb/electric-scateboard/blob/master/graphics/mount.PNG">
 </p>
 
 ## Battery case
@@ -14,7 +14,10 @@
   <img width="500" src="https://github.com/torbrodtkorb/electric-scateboard/blob/master/graphics/case1-top.PNG">
 </p>
 
-## Motor mount
+## Wheels
 <p align="center">
-  <img width="700" src="https://github.com/torbrodtkorb/electric-scateboard/blob/master/graphics/mount.PNG">
+  <img width="600" src="https://github.com/torbrodtkorb/electric-scateboard/blob/master/graphics/IMG_0236.png">
 </p>
+
+
+
